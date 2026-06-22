@@ -25,5 +25,6 @@ public class Main {
         System.out.println("dev555");
         System.out.println("dev666");
         System.out.println("dev777");
+        System.out.println("master888");
     }
 }
